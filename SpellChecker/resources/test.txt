@@ -1,0 +1,11 @@
+This is a smple text file to test the spellchecker. It contains several deliberate mistakes.
+
+Fristly, this sentence has a misspelled word. 
+Secndly, another one here.
+And don't forget inconsistnt capitalization.
+What about repeating repeating words?
+Or sentences without a proper ending
+
+Can the spellchecker handle words like e-mail and co-operate correctly?
+What about proper nouns like London, or names like Alice?
+Remember to check for mixed CAPitALiZaTion as well.
